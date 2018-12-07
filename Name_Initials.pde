@@ -54,8 +54,6 @@ void draw()
   fill(220);
   quad(-80, 464, 220, 464, 140, 505, -160, 505);
 
-  //save function
-  save("VINCENT.Initial.Z.png");
 
   //Shows cursor position
   fill(0);
